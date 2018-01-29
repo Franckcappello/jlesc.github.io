@@ -84,6 +84,10 @@ selective replication for dealing with SDC in HPC systems {% cite subasi2017rep
 --file jlesc.bib %}, in particular for task-based programming
 languages {% cite subasi2016run --file jlesc.bib %}.
 
+## Results for 2017/2018
+A new paper on the topic has been accepted for publication exploring the 
+capabilities of support vector machines in detecting silent data corruptions
+{% cite SubasiEtAl2018 --file jlesc.bib %}.
 
 
 ## Visits and meetings
