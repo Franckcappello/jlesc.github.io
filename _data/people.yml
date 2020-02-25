@@ -2093,6 +2093,15 @@ sasaki_h:
   email: hisako.sasaki@riken.jp
   homepage:
 
+sato_k:
+  sur_name: Sato
+  given_name: Kento
+  affiliation: riken
+  position: permanent
+  topics: Storage, 
+  email: kento.sato@riken.jp
+  homepage:
+
 sato_m:
   sur_name: Sato
   given_name: Mitsuhisa
@@ -2470,6 +2479,14 @@ turk_m:
   topics:
   email: mjturk@illinois.edu
   homepage: http://www.astro.illinois.edu/people/mjturk
+
+ueno_t:
+  sur_name: Ueno
+  given_name: Tomohiro
+  affiliation: riken
+  position: permanent
+  topics:
+  email: tomohiro.ueno@riken.jp
 
 ukawa_a:
   sur_name: Ukawa
